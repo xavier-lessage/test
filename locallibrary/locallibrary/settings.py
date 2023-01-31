@@ -71,7 +71,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'locallibrary.wsgi.application'
 
 
-# Database  azerty
+# Database  azerty  qwert
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
 DATABASES = {
